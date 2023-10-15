@@ -1,4 +1,4 @@
-# pastor_pedro
+# Pastor Pedro
 Pastor Pedro code repository
 This repository is created to mimic the behaivor of a twilio serverless service, in which the code is hosted.
 
