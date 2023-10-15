@@ -1,0 +1,28 @@
+{
+  "name": "pastor_pedro",
+  "version": "1.0.0",
+  "description": "Pastor Pedro code repository",
+  "main": "transcribe.js",
+  "scripts": {
+    "test": "NONE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dederico/pastor_pedro.git"
+  },
+  "author": "Federico Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dederico/pastor_pedro/issues"
+  },
+  "homepage": "https://github.com/dederico/pastor_pedro#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^6.0.2",
+    "@twilio/runtime-handler": "^1.2.1",
+    "lodash": "^4.17.11",
+    "openai": "^4.12.1",
+    "twilio": "^3.29.2",
+    "util": "^0.11.0",
+    "xmldom": "^0.1.27"
+  }
+}
